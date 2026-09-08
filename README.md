@@ -3,3 +3,11 @@
 </h1>
 
 ### Software engineer passionate about crafting beautiful apps and exploring new tech and beyond. Recently graduated from HEIG-VD 🎓
+
+## Languages and Tools
+
+<br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,java,kotlin,androidstudio,py,git,github" />
+  </p>
+<hr>
